@@ -8,4 +8,4 @@ se centralizan en depósitos como almacenes de datos (Data Warehouses).
 Análisis: El software procesa esta información histórica para entender
 qué sucedió y por qué.Visualización: Los hallazgos se presentan en 
 paneles interactivos (dashboards) y reportes visuales fáciles de 
-interpretar.
+interpretar. Xd
